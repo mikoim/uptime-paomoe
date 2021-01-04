@@ -15,13 +15,11 @@ status-website:
   cname: status.pao.moe
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/mikoim/uptime-paomoe/master/fireball.svg
   name: "pao.moe Status"
   introTitle: ""
-  introMessage: ""
+  introMessage: "2017年4月よりベストエフォート型のMastodonインスタンスを提供しておりま（*´・ω・） ｽ"
   navbar:
-    - title: Status
-      href: /
     - title: pao.moe
       href: https://pao.moe/
 

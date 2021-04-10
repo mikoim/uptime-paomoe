@@ -4,17 +4,17 @@
     "url": "https://pao.moe",
     "icon": "https://favicons.githubusercontent.com/pao.moe",
     "slug": "pao-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1247,
-    "timeDay": 1082,
-    "timeWeek": 1297,
-    "timeMonth": 1228,
-    "timeYear": 1247,
+    "time": 1245,
+    "timeDay": 1081,
+    "timeWeek": 1280,
+    "timeMonth": 1224,
+    "timeYear": 1245,
     "dailyMinutesDown": {}
   }
 ]

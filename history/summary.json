@@ -6,17 +6,15 @@
     "slug": "pao-moe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1102,
-    "timeDay": 749,
+    "timeDay": 962,
     "timeWeek": 899,
-    "timeMonth": 944,
+    "timeMonth": 951,
     "timeYear": 1102,
-    "dailyMinutesDown": {
-      "2021-07-31": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]

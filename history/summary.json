@@ -4,19 +4,19 @@
     "url": "https://pao.moe",
     "icon": "https://favicons.githubusercontent.com/pao.moe",
     "slug": "pao-moe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 752,
-    "timeWeek": 764,
-    "timeMonth": 761,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 1019,
+    "timeDay": 1510,
+    "timeWeek": 952,
+    "timeMonth": 809,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 39
     }
   }
 ]

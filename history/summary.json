@@ -2,7 +2,7 @@
   {
     "name": "pao.moe",
     "url": "https://pao.moe",
-    "icon": "https://favicons.githubusercontent.com/pao.moe",
+    "icon": "https://icons.duckduckgo.com/ip3/pao.moe.ico",
     "slug": "pao-moe",
     "status": "up",
     "uptime": "99.98%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 795,
-    "timeDay": 964,
-    "timeWeek": 849,
-    "timeMonth": 774,
+    "time": 794,
+    "timeDay": 759,
+    "timeWeek": 827,
+    "timeMonth": 773,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2022-06-30": 35,

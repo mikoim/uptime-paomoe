@@ -4,17 +4,19 @@
     "url": "https://pao.moe",
     "icon": "https://icons.duckduckgo.com/ip3/pao.moe.ico",
     "slug": "pao-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
+    "time": 721,
     "timeDay": 674,
     "timeWeek": 597,
     "timeMonth": 609,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
